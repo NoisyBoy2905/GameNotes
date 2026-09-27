@@ -14,7 +14,14 @@ Just a simple texted based game with branching paths, will follow the dungeon, h
 
 # Out of Scope
 
-- 
+- Multiple dungeons
+- Multiple classes
+- Many different bosses and enemy types with multiple classes/roles they fill
+# Tech
+
+Written in python, gonna use colorama, JSON and random again, with classes to save player, enemy and dungeon data 
+
+
 
 Status: Not started
 
