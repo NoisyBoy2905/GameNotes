@@ -1,0 +1,65 @@
+{
+  "collapse-filter": true,
+  "search": "-path:Templates  ",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "tag:#class  ",
+      "color": {
+        "a": 1,
+        "rgb": 2467044
+      }
+    },
+    {
+      "query": "tag:#game  ",
+      "color": {
+        "a": 1,
+        "rgb": 11845159
+      }
+    },
+    {
+      "query": "tag:#hub  ",
+      "color": {
+        "a": 1,
+        "rgb": 14745825
+      }
+    },
+    {
+      "query": "tag:#gameplay  ",
+      "color": {
+        "a": 1,
+        "rgb": 6684672
+      }
+    },
+    {
+      "query": "tag:#lore  ",
+      "color": {
+        "a": 1,
+        "rgb": 5431378
+      }
+    },
+    {
+      "query": "tag:#subclass  ",
+      "color": {
+        "a": 1,
+        "rgb": 11949344
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": false,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 1,
+  "collapse-forces": true,
+  "centerStrength": 0.279193835210433,
+  "repelStrength": 10.8694303732038,
+  "linkStrength": 1,
+  "linkDistance": 263,
+  "scale": 0.9999999999999933,
+  "close": false
+}
