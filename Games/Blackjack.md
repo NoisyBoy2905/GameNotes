@@ -14,6 +14,7 @@ Partially through a terminal based python version of Blackjack: [Repo](https://g
 
 - Splitting pairs
 
+Status: Done
 
 Back to [[Game Ladder]]
 
