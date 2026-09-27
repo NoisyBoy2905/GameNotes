@@ -1,9 +1,9 @@
 
 # Pillars Home
 
-- [[Science]]: 
-- [[Medic]]:
-- [[Religion]]:
+- [[Science]]: A massive futuristic city with massive skyscrapers and like everything atop of each other (like cyberpunk)
+- [[Magic]]: It is like a collecting of floating islands in the sky connected by bridges and tied down with massive vines, with a town beneath them kinda like a Minecraft village but with wizard towers and witches huts and all stuff like that
+- [[Religion]]: 
 
 # Shared Spaces
 
