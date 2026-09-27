@@ -5,7 +5,7 @@ Each Class ([[Science]], [[Magic]], [[Religion]]) is separated by their vastly d
 
 # The Dungeons
 
-Over what is thought to be 2 millennium ago the dungeons started appearing, at first they were small and barely contained any enemies but as time went along they started growing in size and the enemies started growing in strength, at first a person could go in by themself and come out unharmed now a party of 4 can go in and barely make it out alive
+Over what is thought to be 2 millennium ago the dungeons started appearing, at first they were small and barely contained any enemies but as time went along they started growing in size and the enemies started growing in strength, at first a person could go in by themself and come out unharmed now a party of 4 can go in and barely make it out alive. The dungeons have respawning enemies but they can be cut off from the god, severing his connection to it
 
 # Theories 
 
@@ -27,6 +27,7 @@ There is an angry god (outcast in family maybe still undecided) and he is pullin
 - What does he want?
 
 Link to [[Dungeons & Enemies]]
+Link to [[Places]]
 Link Back to [[MMO Overview]]
 
 #lore
