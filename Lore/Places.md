@@ -7,7 +7,7 @@
 
 # Shared Spaces
 
-Vast variety of shared spaces due to the distantce between the pillars, 
+Vast variety of shared spaces due to the distance between the pillars, most of them are small towns and villages where clusters of people with all different beliefs leave and thrive together, dungeon outposts the frontier for reclamation of their world fortified camps with limited space, armies everywhere, wandering traders people who travel from place to place selling wares the bought and found
 
 # Dungeons
 
