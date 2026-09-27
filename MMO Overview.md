@@ -1,4 +1,6 @@
 
+
+## [Repo](https://github.com/NoisyBoy2905/GameNotes)
 # Overview
 
 Will be a Dungeon Crawler similar to FFXIV, will be a MMO with both PvE and PvP in special zones
@@ -7,9 +9,7 @@ Will be a Dungeon Crawler similar to FFXIV, will be a MMO with both PvE and PvP 
 
 There will be 3 types of classes with subroles within each, these can be mix and matched between them: [[Science]], [[Magic]], [[Religion]]
 
-# Lore and World Building
-
-[[Lore & World]]
+# [[Lore & World]] Building
 
 # Build Plan
 
