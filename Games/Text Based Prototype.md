@@ -1,4 +1,6 @@
 
+## [Repo](https://github.com/NoisyBoy2905/severance-text)
+
 Will be exactly like the 2.5D version but without visuals or with them appearing rarely like showing a enemy/boss or special item or chest
 
 # Goal
