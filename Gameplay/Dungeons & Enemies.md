@@ -25,7 +25,7 @@ Each dungeon should end with a boss fight which sometimes might lead to a lore r
 
 ## Dungeon 1
 
-Rain forest, straight path along the side of a river fighting like slightly mutated normal animals. like 5-10 mins teaches basic of the dungeons and there class
+Rain forest, straight path along the side of a river fighting like slightly mutated normal animals. like 5-10 mins teaches basic of the dungeons and their class
 
 ## Dungeon 2 
 
