@@ -1,7 +1,7 @@
 
 # The World
 
-Each Class ([[Science]], [[Magic]], [[Religion]]) is separated by their vastly different believes, they all talk with each other and trade but never can agree on anything
+Each Class ([[Science]], [[Magic]], [[Religion]]) is separated by their vastly different beliefs, they all talk with each other and trade but never can agree on anything.
 
 # The Dungeons
 
@@ -13,7 +13,7 @@ Over what is thought to be 2 millennium ago the dungeons started appearing, at f
 - Magic thinks its the world fracturing and another one leaking in
 - Religion think it is a punishment from the divine, for all the sins committed by the other pillars many millennium ago
 
-# Why the fight together
+# Why they fight together
 
 They fight together out of necessity due to the growing strength of the dungeons and how not one pillar alone could take it out due to the vastly different styles
 
