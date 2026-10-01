@@ -12,12 +12,12 @@ Just a simple texted based game with branching paths, will follow the dungeon, h
 - Start with 1 class (probably paladin due to being simple)
 - Start with first dungeon (dungeon 1 on dungeon & enemies note)
 - Turned based combat 
-- Enemies with set classes and 1 boss for now
+- Enemies with set classes and a boss at the end of each dungeon
+- Multiple dungeons (Rainforest River and Derelict Spaceship built, Cave planned)
+- Multiple classes (Paladin done, Sorcerer in progress)
 
 # Out of Scope
 
-- Multiple dungeons
-- Multiple classes
 - Many different bosses and enemy types with multiple classes/roles they fill
 # Tech
 
@@ -35,7 +35,7 @@ Written in python, gonna use colorama, JSON and random again, with classes to sa
 8. Save/Load: save and load via files with JSON
 9. Polish: add colours, ASCII art for enemies and gear and special parts of the room
 
-Status: Not started
+Status: In progress - steps 1-6 done (Paladin, 2 dungeons with bosses, levelling and XP). Working on the Sorcerer next
 
 Link to [[Dungeons & Enemies]]
 Link to [[Lore & World]]
